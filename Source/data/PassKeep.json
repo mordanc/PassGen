@@ -1,0 +1,32 @@
+{
+    "Passwords": {
+        "hello": {
+            "website": "hello",
+            "password": "rpg7t1k5"
+        },
+        "howyou": {
+            "website": "howyou",
+            "password": "7p#tq#4d"
+        },
+        "goodbye": {
+            "website": "goodbye",
+            "password": "*^vk@hr#"
+        },
+        "nevermind": {
+            "website": "nevermind",
+            "password": "pk#axt%q"
+        },
+        "helloagain": {
+            "website": "helloagain",
+            "password": "g!2bx!ze"
+        },
+        "seeya": {
+            "website": "seeya",
+            "password": "*i0(dg6e"
+        },
+        "justtesting": {
+            "website": "justtesting",
+            "password": "750%5nsf"
+        }
+    }
+}
